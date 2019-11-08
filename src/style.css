@@ -1,0 +1,11 @@
+.board{
+    width: 600px;
+    height: 600px;
+    margin:50px;
+    border:2px solid black;
+}
+
+.button{
+    width:200px;
+    height: 200px;
+}
